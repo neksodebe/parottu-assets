@@ -10,4 +10,4 @@ These assets are made available under the following conditions:
 
 All assets in this repository are protected by copyright law.
 
-###### Copyright © Niko's TechLabs 2024.
+###### Copyright © Niko's TechLabs 2025.
